@@ -70,18 +70,18 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ekdmssld&show_icons=true&theme=cottoncandy&hide_border=true&border_radius=15" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ekdmssld&theme=merko&hide_border=true&border_radius=15" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ekdmssld&theme=merko&hide_border=true&border_radius=15" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekdmssld&layout=compact&theme=cottoncandy&hide_border=true&border_radius=15" width="48%" />
+<br><br>
+
+![Followers](https://img.shields.io/github/followers/ekdmssld?style=for-the-badge&color=FFD6E8&labelColor=FFF0F5&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ekdmssld&color=ffb6c1&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 <br>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ekdmssld&color=ffb6c1&style=flat&label=Profile+Views)
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="80"/>
 

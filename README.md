@@ -147,8 +147,12 @@ Java와 Spring을 중심으로 인증, 데이터 모델링, 비동기 작업과 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ekdmssld&show_icons=true&hide_border=true&theme=transparent&title_color=FF8FAB&icon_color=FF8FAB&text_color=777777" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekdmssld&layout=compact&hide_border=true&theme=transparent&title_color=FF8FAB&text_color=777777" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekdmssld&theme=rose_pine" width="70%" alt="GitHub profile summary"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekdmssld&theme=rose_pine" alt="GitHub stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekdmssld&theme=rose_pine" alt="Top languages"/>
 
 <br/><br/>
 
